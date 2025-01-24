@@ -1,0 +1,12 @@
+/* adds darkgreen to 2nd and third link */
+
+a[class] {
+    color:darkgreen
+}
+
+/* adds color to all links that contain the work "meta"*/
+
+a[href*="meta"] {
+    color:darkgreen
+}
+
