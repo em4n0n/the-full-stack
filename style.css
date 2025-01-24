@@ -10,3 +10,8 @@ a[href*="meta"] {
     color:darkgreen
 }
 
+/* adds colors to specific links */
+
+a[href="https://about.meta.com/"] {
+    color:darkgreen
+}
