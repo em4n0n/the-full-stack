@@ -15,3 +15,10 @@ a[href*="meta"] {
 a[href="https://about.meta.com/"] {
     color:darkgreen
 }
+
+li:nth-of-type(2) {
+    color:aqua;
+}
+li:nth-child(2) {
+    color:aqua;
+}
