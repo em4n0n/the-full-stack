@@ -5,3 +5,11 @@
     border: 1px solid #ccc;
     overflow: hidden;
 }
+
+.icon{
+    padding: 0.8rem;
+}
+.searchBox {
+    border: 0;
+    flex: 1;
+}
