@@ -11,3 +11,7 @@ body {
     border-radius: 10px;
     font-size: 150%;
 }
+
+.container {
+    display:grid;
+}
